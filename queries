@@ -1,0 +1,1 @@
+db.project.update(     {_id:ObjectId("597c7bdbdd6887f193f6f06a")},     { $pull: { images: { $in: [ "827f67cd-fb9b-4fef-be41-4980992c6b7c.jpg" ] }} },     { multi: true } )

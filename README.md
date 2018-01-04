@@ -1,2 +1,3 @@
-# Arclan
-Arclan development
+# arclan
+
+a [Sails](http://sailsjs.org) application
